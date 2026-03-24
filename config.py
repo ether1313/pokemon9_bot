@@ -8,8 +8,8 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8288797778:AAF1f0Pq9kwMNk_V_LSJI-yRRGd8N1sZt
 
 # Channel and link configuration
 TELEGRAM_CHANNEL = os.getenv("TELEGRAM_CHANNEL", "https://t.me/pokemon13channel")
-FREE_SPIN_URL = os.getenv("FREE_SPIN_URL", "https://pkm9au.vip/RFPOKEMON9BOT")
-FREE_CREDIT_URL = os.getenv("FREE_CREDIT_URL", "https://pkm9au.vip/RFPOKEMON9BOT")
+FREE_SPIN_URL = os.getenv("FREE_SPIN_URL", "https://pokemon9.co/RFPOKEMON9BOT")
+FREE_CREDIT_URL = os.getenv("FREE_CREDIT_URL", "https://pokemon9.co/RFPOKEMON9BOT")
 
 # Promotional images (local file paths - hardcoded in code)
 FREE_SPIN_IMAGE_PATH = "public/free_spin.jpg"
